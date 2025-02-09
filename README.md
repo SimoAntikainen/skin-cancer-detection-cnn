@@ -42,7 +42,7 @@ The model achieves an overall accuracy of 85%, demonstrating strong classificati
 ## 🛠 Installation  
 Ensure you have **Python 3.7+** and install dependencies using:  
 
-```
+```bash
 conda env create -f environment.yml
 or 
 
